@@ -1,0 +1,14 @@
+*.vo
+*.cmi
+*.cmx
+*.ml.d
+*.o
+*.a
+*.cmxa
+*.cmxs
+*.mlpack.d
+*.ml4.d
+*.aux
+*.glob
+.coqdeps.d
+Makefile.conf
